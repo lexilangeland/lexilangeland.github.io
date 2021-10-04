@@ -1,7 +1,8 @@
-h2{font-family: 'Poppins', sans-serif; color:#D78521; letter-spacing:1px}
-h1{font-family: 'Poppins', sans-serif; color:#000000;letter-spacing:1px;}
-body{font-family: 'Gluten', cursive; background-color:#ccd9cf;}
-#one{background-color: #ccd9cf;
+h2{font-family: 'Poppins', sans-serif; color:#264653; letter-spacing:1px}
+h1{font-family: 'Poppins', sans-serif; color:#264653;letter-spacing:1px;}
+body{font-family: 'Gluten', cursive; background-color:#E9C46A;}
+#one{background-color: #E9C46A;
+		color: orangered;
 		padding: 10px;
 		margin: 20px;
 		border: 5px;
@@ -14,7 +15,7 @@ body{font-family: 'Gluten', cursive; background-color:#ccd9cf;}
 		margin: 20px;
 		border: 5px;
 		border-style: dotted;
-		border-color: white;
+		border-color: whitesmoke;
 		height: 50%;
 		width: 45%;
 		line-height: 1.5;
@@ -27,7 +28,7 @@ body{font-family: 'Gluten', cursive; background-color:#ccd9cf;}
 		margin: 20px;
 		border: 5px;
 		border-style: dotted;
-		border-color: white;
+		border-color: whitesmoke;
 		height: 60%;
 		width: 45%;
 		line-height: 1.5;
